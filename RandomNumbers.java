@@ -37,3 +37,4 @@ public class RandomNumbers {
         System.out.printf("Random Boolean Value is: %b%n", booleanValue);
     }
 }
+cd documents

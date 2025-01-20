@@ -1,5 +1,5 @@
 public class TrafficLightState {
-    // Define the enum outside the main method
+    
     enum TrafficLightState {
         RED, YELLOW, GREEN;
     }
